@@ -616,8 +616,8 @@ p {
     color: #283618;
 }
 
-.catalog a {
-    z-index: -10;
+.catalog-card-price, .catalog-card-name {
+    z-index: 10;
 }
 /* catalog end */
 
